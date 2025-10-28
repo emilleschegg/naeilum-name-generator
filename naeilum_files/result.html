@@ -29,7 +29,7 @@ const initialMap = {a:"ㅇ",e:"ㅇ",i:"ㅇ",o:"ㅇ",u:"ㅇ",b:"ㅂ",p:"ㅂ",c:"�
 f:"ㅍ",v:"ㅍ",g:"ㄱ",h:"ㅎ",j:"ㅈ",l:"ㄹ",r:"ㄹ",m:"ㅁ",n:"ㄴ",s:"ㅅ",w:"ㅇ",y:"ㅇ",x:"ㅅ",z:"ㅈ"};
 const firstLetter = engName[0]?.toLowerCase();
 const targetInitial = initialMap[firstLetter] || "ㅇ";
-const csvFile = gender === "male" ? "male_names.csv" : "female_names.csv";
+const csvFile = gender === "male" ? "naeilum_files/male_names.csv" : "naeilum_files/female_names.csv";
 
 fetch(csvFile)
 .then(res=>res.text())
@@ -52,4 +52,5 @@ fetch(csvFile)
 })
 .catch(err=>{console.error(err);document.getElementById("results").innerHTML="<p>Error loading name data.</p>";});
 </script>
+
 </body></html>
