@@ -59,30 +59,34 @@ async function generateName() {
   btn.disabled = true;
 
   try {
-    const res = await fetch(SCRIPT_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ name: inputName, gender })
-    });
+  // 사용자가 입력한 이름과 성별 읽기
+  const first = document.getElementById("firstName").value.trim();
+  const last  = document.getElementById("lastName").value.trim();
+  const genderEl = document.querySelector('input[name="gender"]:checked');
+  const gender = genderEl ? genderEl.value : null;
 
-    if (!res.ok) throw new Error("Network error");
-    const data = await res.json();
-
-    const html = (data.results || []).map((r, i) => `
-      <div style="margin:14px auto; padding:14px; width:280px; border:1px solid #e5e7eb; border-radius:12px; text-align:left;">
-        <h3 style="margin:0 0 6px;">${i + 1}. ${r.full}</h3>
-        <p style="margin:6px 0;"><b>Hanja:</b> ${r.hanja}</p>
-        <p style="margin:6px 0;"><b>Meaning:</b> ${r.meaning}</p>
-      </div>
-    `).join("");
-
-    resultBox.innerHTML = html || "No suggestions. Please try again.";
-  } catch (e) {
-    console.error(e);
-    resultBox.innerHTML = "⚠️ Error generating name. Please try again.";
-  } finally {
+  if (!first && !last) {
+    alert("Please enter at least First or Last name.");
     btn.disabled = false;
+    return;
   }
+  if (!gender) {
+    alert("Please select your gender.");
+    btn.disabled = false;
+    return;
+  }
+
+  // meaning.html로 이동 (입력값을 URL에 포함)
+  const query = `meaning.html?name=${encodeURIComponent(first || last)}&gender=${gender}`;
+  window.location.href = query;
+
+} catch (e) {
+  console.error(e);
+  alert("Something went wrong. Please try again.");
+} finally {
+  btn.disabled = false;
+}
+
 }
 
 // Press Enter to begin (convenience)
@@ -92,3 +96,4 @@ async function generateName() {
   });
 });
 </script>
+
