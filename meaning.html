@@ -98,14 +98,18 @@
 
     document.getElementById('nextBtn').addEventListener('click', () => {
       if (!selectedMeaning) {
-        alert("Please select a meaning for your name!");
-        return;
-      }
-      // Go to next page with meaning in URL parameter
-      window.location.href = `naeilum_files/result.html?meaning=${encodeURIComponent(selectedMeaning)}`;
-    });
+         alert("Please select a meaning for your name!");
+      return;
+    }
+    const params = new URLSearchParams(window.location.search);
+    const name = params.get("name");
+    const gender = params.get("gender");
+    // ✅ name, gender, meaning 모두 전달
+    window.location.href = `naeilum_files/result.html?name=${encodeURIComponent(name)}&gender=${gender}&meaning=${encodeURIComponent(selectedMeaning)}`;
+  });
   </script>
 
 </body>
 </html>
+
 
