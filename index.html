@@ -77,8 +77,8 @@ async function generateName() {
   }
 
   // meaning.html로 이동 (입력값을 URL에 포함)
-  const query = `meaning.html?name=${encodeURIComponent(first || last)}&gender=${gender}`;
-  window.location.href = query;
+  const query = `https://emilleschegg.github.io/naeilum-name-generator/meaning.html?name=${encodeURIComponent(first || last)}&gender=${gender}`;
+window.location.href = query;
 
 } catch (e) {
   console.error(e);
@@ -96,4 +96,5 @@ async function generateName() {
   });
 });
 </script>
+
 
