@@ -11,12 +11,17 @@ body {
   margin: 60px;
   background: #fafafa;
 }
-h2 { color: #333; }
+h2 { color: #333; margin-bottom: 8px; }
+p.subtitle {
+  color: #777;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
 .result-container {
   display: flex;
   justify-content: center;
   gap: 25px;
-  margin-top: 50px;
+  margin-top: 20px;
   flex-wrap: wrap;
 }
 .card {
@@ -28,6 +33,7 @@ h2 { color: #333; }
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
   text-align: center;
   transition: transform 0.2s;
+  cursor: pointer;
 }
 .card:hover { transform: translateY(-5px); }
 .card h3 { font-size: 22px; color: #333; margin-bottom: 5px; }
@@ -35,82 +41,83 @@ h2 { color: #333; }
 .card .meaning { color: #4CAF50; font-weight: 600; }
 button {
   margin-top: 40px;
+  background-color: #4CAF50;
+  color: white;
   padding: 10px 20px;
   border: none;
   border-radius: 8px;
-  background-color: #4CAF50;
-  color: white;
   cursor: pointer;
 }
-button:hover { background-color: #3b9442; }
+button:hover {
+  background-color: #45a049;
+}
 </style>
 </head>
 <body>
 
 <h2>✨ Your Korean Name Recommendations ✨</h2>
-<div id="results" class="result-container"></div>
-<button onclick="history.back()">← Go Back</button>
+<p class="subtitle">Click your favorite name to check today’s fortune ✨</p>
+
+<div id="results" class="result-container">⏳ Loading results...</div>
+<button onclick="goBack()">← Choose Meaning Again</button>
 
 <script>
 const params = new URLSearchParams(window.location.search);
-const engName = params.get("name")?.trim() || "";
+const fullName = params.get("name")?.trim() || "";
 const gender = params.get("gender") || "female";
-const meaning = params.get("meaning");
+const meaning = params.get("meaning")?.trim() || ""; // meaning으로 넘어옴
 
-const initialMap = {
-  a:"ㅇ", e:"ㅇ", i:"ㅇ", o:"ㅇ", u:"ㅇ",
-  b:"ㅂ", p:"ㅂ", c:"ㅋ", k:"ㅋ", q:"ㅋ",
-  d:"ㄷ", t:"ㄷ", f:"ㅍ", v:"ㅍ", g:"ㄱ",
-  h:"ㅎ", j:"ㅈ", l:"ㄹ", r:"ㄹ", m:"ㅁ",
-  n:"ㄴ", s:"ㅅ", w:"ㅇ", y:"ㅇ", x:"ㅅ", z:"ㅈ"
-};
-const firstLetter = engName[0]?.toLowerCase();
-const targetInitial = initialMap[firstLetter] || "ㅇ";
+const firstName = fullName.split(" ")[0] || fullName;
+const firstLetter = firstName[0]?.toUpperCase() || "A";
+
 const csvFile = gender === "male" ? "male_names.csv" : "female_names.csv";
 
 fetch(csvFile)
-.then(res => res.text())
-.then(text => {
-  const rows = text.split("\n").slice(1);
-  const data = rows.map(line => {
-    const [name, hanja, mean] = line.split(",");
-    return { name: name?.trim(), hanja: hanja?.trim(), mean: mean?.trim() };
+  .then(res => res.text())
+  .then(text => {
+    const rows = text.split("\n").slice(1);
+    const data = rows.map(line => {
+      const [name, hanja, cat, meaningText, initial] = line.split(",");
+      return {
+        name: name?.trim(),
+        hanja: hanja?.trim(),
+        category: cat?.trim(),
+        meaning: meaningText?.trim(),
+        initial: initial?.trim()
+      };
+    }).filter(r => r.name && r.category);
+
+    const categoryFiltered = data.filter(r => r.category.toLowerCase() === meaning.toLowerCase());
+    const initialFiltered = categoryFiltered.filter(r => r.initial === firstLetter);
+
+    let finalList = [];
+    if (initialFiltered.length >= 3) {
+      finalList = initialFiltered.sort(() => 0.5 - Math.random()).slice(0, 3);
+    } else if (categoryFiltered.length >= 3) {
+      finalList = categoryFiltered.sort(() => 0.5 - Math.random()).slice(0, 3);
+    } else {
+      finalList = data.sort(() => 0.5 - Math.random()).slice(0, 3);
+    }
+
+    const html = finalList.map(r => `
+      <div class="card" onclick="checkFortune('${r.name}', '${meaning}', '${fullName}')">
+        <h3>${r.name}</h3>
+        <p>${r.hanja}</p>
+        <p class="meaning">${r.meaning}</p>
+      </div>
+    `).join("");
+
+    document.getElementById("results").innerHTML = html || "<p>No matching results found.</p>";
   });
 
-  let filtered = meaning
-    ? data.filter(r => r.mean?.toLowerCase().includes(meaning.toLowerCase()))
-    : data;
+function goBack() {
+  window.history.back();
+}
 
-  const choList = {
-    "ㄱ":["가","강","고","공","권","기","건"],"ㄴ":["나","노","남","누","니"],
-    "ㄷ":["다","도","동","두"],"ㄹ":["라","로","류","리"],"ㅁ":["마","민","명","미","문"],
-    "ㅂ":["박","배","백","보","빈"],"ㅅ":["서","소","수","시","선"],
-    "ㅇ":["아","안","오","우","유","은","이","여","윤"],"ㅈ":["지","주","진","재","준","제"],
-    "ㅊ":["차","채","초"],"ㅋ":["규","기","경"],"ㅌ":["태","탁"],"ㅍ":["표","필","풍"],"ㅎ":["하","현","혜","효"]
-  };
-  const possible = choList[targetInitial] || [];
-
-  let result = filtered.filter(r =>
-    possible.some(p => r.name?.startsWith(p))
-  );
-
-  if (result.length === 0)
-    result = data.sort(() => 0.5 - Math.random()).slice(0, 3);
-
-  const html = result.map(r => `
-    <div class="card">
-      <h3>${r.name}</h3>
-      <p><b>Hanja:</b> ${r.hanja}</p>
-      <p class="meaning">${r.mean}</p>
-    </div>
-  `).join("");
-
-  document.getElementById("results").innerHTML = html;
-})
-.catch(err => {
-  console.error(err);
-  document.getElementById("results").innerHTML = "<p>⚠️ Error loading name data.</p>";
-});
+// ✅ fortunes.html로 정확히 meaning 전달
+function checkFortune(name, meaning, fullName) {
+  window.location.href = `fortunes.html?name=${encodeURIComponent(name)}&meaning=${encodeURIComponent(meaning)}&fullname=${encodeURIComponent(fullName)}`;
+}
 </script>
 
 </body>
