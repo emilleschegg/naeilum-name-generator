@@ -1,501 +1,1001 @@
-﻿name,hanja,mean
-서연,瑞姸,Strength
-유나,柔那,Light / Hope
-지우,智祐,Wisdom
-하은,河恩,Love
-서연,瑞姸,Peace
-예나,藝娜,Wisdom
-예나,藝娜,Nature
-수아,秀娥,Peace
-윤서,潤瑞,Freedom
-지윤,智潤,Wisdom
-다인,多仁,Strength
-민서,敏瑞,Luck
-나은,娜恩,Beauty
-지유,智柔,Peace
-유나,柔那,Wisdom
-지우,智祐,Diligence
-아린,雅潾,Talent
-아린,雅潾,Luck
-지유,智柔,Freedom
-서연,瑞姸,Diligence
-서윤,瑞潤,Freedom
-은서,恩瑞,Freedom
-서연,瑞姸,Love
-하은,河恩,Talent
-지우,智祐,Light / Hope
-예린,藝潾,Wisdom
-지유,智柔,Beauty
-지우,智祐,Nature
-예나,藝娜,Strength
-유나,柔那,Diligence
-다인,多仁,Strength
-예나,藝娜,Love
-유나,柔那,Peace
-윤서,潤瑞,Strength
-수아,秀娥,Beauty
-지윤,智潤,Love
-민서,敏瑞,Luck
-아린,雅潾,Love
-하린,河潾,Nature
-서연,瑞姸,Light / Hope
-지우,智祐,Luck
-예린,藝潾,Harmony
-서윤,瑞潤,Beauty
-수아,秀娥,Wisdom
-서연,瑞姸,Strength
-채원,彩媛,Nature
-하린,河潾,Luck
-다인,多仁,Luck
-나은,娜恩,Love
-유나,柔那,Beauty
-예나,藝娜,Talent
-다인,多仁,Diligence
-서윤,瑞潤,Peace
-서윤,瑞潤,Beauty
-하린,河潾,Talent
-윤서,潤瑞,Beauty
-예나,藝娜,Freedom
-서윤,瑞潤,Strength
-지우,智祐,Harmony
-하린,河潾,Harmony
-다인,多仁,Nature
-채원,彩媛,Wisdom
-나은,娜恩,Talent
-하은,河恩,Harmony
-아린,雅潾,Harmony
-서연,瑞姸,Luck
-은서,恩瑞,Freedom
-수아,秀娥,Peace
-윤서,潤瑞,Nature
-지유,智柔,Freedom
-지우,智祐,Nature
-지우,智祐,Wisdom
-서연,瑞姸,Love
-하윤,河潤,Diligence
-민서,敏瑞,Strength
-유나,柔那,Luck
-서연,瑞姸,Beauty
-하은,河恩,Nature
-다인,多仁,Light / Hope
-예나,藝娜,Wisdom
-서윤,瑞潤,Nature
-지유,智柔,Nature
-서윤,瑞潤,Peace
-나은,娜恩,Beauty
-서윤,瑞潤,Talent
-지우,智祐,Beauty
-나은,娜恩,Strength
-지안,智安,Beauty
-유나,柔那,Peace
-하은,河恩,Strength
-하은,河恩,Strength
-하린,河潾,Peace
-아린,雅潾,Luck
-예린,藝潾,Love
-예나,藝娜,Wisdom
-하린,河潾,Beauty
-아린,雅潾,Talent
-예린,藝潾,Freedom
-서연,瑞姸,Freedom
-예나,藝娜,Freedom
-수아,秀娥,Diligence
-수아,秀娥,Beauty
-수아,秀娥,Peace
-다인,多仁,Strength
-지윤,智潤,Beauty
-하린,河潾,Beauty
-예나,藝娜,Talent
-하은,河恩,Strength
-다인,多仁,Diligence
-지유,智柔,Freedom
-윤서,潤瑞,Luck
-서연,瑞姸,Wisdom
-지안,智安,Freedom
-유나,柔那,Harmony
-은서,恩瑞,Peace
-서윤,瑞潤,Peace
-서윤,瑞潤,Light / Hope
-다인,多仁,Love
-지유,智柔,Harmony
-하린,河潾,Diligence
-지우,智祐,Beauty
-수아,秀娥,Harmony
-지안,智安,Wisdom
-서윤,瑞潤,Wisdom
-지우,智祐,Wisdom
-서윤,瑞潤,Strength
-수아,秀娥,Love
-서연,瑞姸,Light / Hope
-유나,柔那,Peace
-윤서,潤瑞,Diligence
-예나,藝娜,Harmony
-은서,恩瑞,Freedom
-다인,多仁,Beauty
-예나,藝娜,Talent
-하윤,河潤,Freedom
-예나,藝娜,Nature
-하윤,河潤,Strength
-서윤,瑞潤,Peace
-지유,智柔,Love
-예린,藝潾,Harmony
-지안,智安,Talent
-하은,河恩,Nature
-예린,藝潾,Nature
-예나,藝娜,Freedom
-나은,娜恩,Harmony
-나은,娜恩,Love
-지우,智祐,Light / Hope
-지안,智安,Talent
-하은,河恩,Peace
-하은,河恩,Freedom
-지윤,智潤,Luck
-하윤,河潤,Strength
-예나,藝娜,Light / Hope
-나은,娜恩,Talent
-은서,恩瑞,Beauty
-서연,瑞姸,Freedom
-예나,藝娜,Wisdom
-아린,雅潾,Peace
-서윤,瑞潤,Wisdom
-예린,藝潾,Love
-민서,敏瑞,Diligence
-수아,秀娥,Diligence
-하린,河潾,Diligence
-유나,柔那,Love
-하린,河潾,Freedom
-지우,智祐,Diligence
-유나,柔那,Wisdom
-은서,恩瑞,Peace
-서연,瑞姸,Strength
-나은,娜恩,Wisdom
-채원,彩媛,Love
-수아,秀娥,Peace
-하린,河潾,Luck
-민서,敏瑞,Talent
-하린,河潾,Diligence
-하윤,河潤,Freedom
-민서,敏瑞,Strength
-은서,恩瑞,Diligence
-은서,恩瑞,Freedom
-지우,智祐,Beauty
-지윤,智潤,Peace
-지유,智柔,Light / Hope
-서윤,瑞潤,Luck
-다인,多仁,Strength
-채원,彩媛,Peace
-유나,柔那,Wisdom
-지우,智祐,Nature
-나은,娜恩,Harmony
-민서,敏瑞,Talent
-예린,藝潾,Talent
-다인,多仁,Harmony
-예린,藝潾,Diligence
-지유,智柔,Diligence
-예린,藝潾,Freedom
-지윤,智潤,Wisdom
-윤서,潤瑞,Peace
-유나,柔那,Nature
-다인,多仁,Beauty
-서연,瑞姸,Freedom
-예나,藝娜,Talent
-다인,多仁,Harmony
-유나,柔那,Light / Hope
-나은,娜恩,Beauty
-채원,彩媛,Luck
-지안,智安,Love
-서연,瑞姸,Diligence
-예린,藝潾,Peace
-지안,智安,Harmony
-나은,娜恩,Light / Hope
-지윤,智潤,Peace
-하은,河恩,Beauty
-하린,河潾,Nature
-예린,藝潾,Peace
-지윤,智潤,Love
-은서,恩瑞,Luck
-다인,多仁,Diligence
-하윤,河潤,Diligence
-서윤,瑞潤,Peace
-지윤,智潤,Peace
-하윤,河潤,Luck
-서연,瑞姸,Nature
-채원,彩媛,Peace
-예린,藝潾,Luck
-서연,瑞姸,Beauty
-유나,柔那,Diligence
-나은,娜恩,Luck
-하린,河潾,Strength
-지우,智祐,Diligence
-윤서,潤瑞,Beauty
-민서,敏瑞,Diligence
-아린,雅潾,Nature
-지유,智柔,Luck
-서연,瑞姸,Nature
-유나,柔那,Nature
-지우,智祐,Light / Hope
-지우,智祐,Harmony
-나은,娜恩,Peace
-하은,河恩,Freedom
-유나,柔那,Strength
-서윤,瑞潤,Luck
-지우,智祐,Nature
-서연,瑞姸,Harmony
-예린,藝潾,Harmony
-지유,智柔,Nature
-하린,河潾,Nature
-다인,多仁,Wisdom
-예나,藝娜,Freedom
-서윤,瑞潤,Strength
-서윤,瑞潤,Light / Hope
-지유,智柔,Nature
-유나,柔那,Nature
-지윤,智潤,Diligence
-지유,智柔,Wisdom
-지유,智柔,Strength
-유나,柔那,Light / Hope
-서윤,瑞潤,Beauty
-하윤,河潤,Diligence
-수아,秀娥,Diligence
-수아,秀娥,Freedom
-민서,敏瑞,Strength
-지유,智柔,Strength
-지안,智安,Nature
-하은,河恩,Talent
-지우,智祐,Talent
-나은,娜恩,Harmony
-아린,雅潾,Beauty
-서연,瑞姸,Talent
-지유,智柔,Love
-은서,恩瑞,Diligence
-지윤,智潤,Love
-지유,智柔,Peace
-수아,秀娥,Talent
-지우,智祐,Strength
-다인,多仁,Nature
-윤서,潤瑞,Peace
-지유,智柔,Light / Hope
-하윤,河潤,Harmony
-채원,彩媛,Harmony
-지안,智安,Love
-지유,智柔,Wisdom
-채원,彩媛,Light / Hope
-지안,智安,Talent
-지안,智安,Harmony
-하윤,河潤,Light / Hope
-서연,瑞姸,Light / Hope
-민서,敏瑞,Talent
-지우,智祐,Strength
-지우,智祐,Diligence
-수아,秀娥,Love
-예린,藝潾,Harmony
-하린,河潾,Beauty
-은서,恩瑞,Light / Hope
-유나,柔那,Wisdom
-수아,秀娥,Wisdom
-은서,恩瑞,Light / Hope
-민서,敏瑞,Love
-민서,敏瑞,Beauty
-서연,瑞姸,Peace
-채원,彩媛,Love
-아린,雅潾,Light / Hope
-예린,藝潾,Diligence
-지윤,智潤,Freedom
-윤서,潤瑞,Strength
-지안,智安,Nature
-예린,藝潾,Luck
-예나,藝娜,Peace
-지안,智安,Peace
-하린,河潾,Beauty
-서윤,瑞潤,Luck
-윤서,潤瑞,Peace
-지유,智柔,Light / Hope
-예린,藝潾,Freedom
-하린,河潾,Peace
-하윤,河潤,Freedom
-지안,智安,Talent
-지우,智祐,Freedom
-지유,智柔,Freedom
-서연,瑞姸,Strength
-채원,彩媛,Love
-수아,秀娥,Freedom
-지유,智柔,Wisdom
-하린,河潾,Beauty
-서연,瑞姸,Talent
-은서,恩瑞,Peace
-채원,彩媛,Nature
-하린,河潾,Peace
-유나,柔那,Talent
-서윤,瑞潤,Strength
-지윤,智潤,Strength
-은서,恩瑞,Harmony
-수아,秀娥,Beauty
-윤서,潤瑞,Nature
-지윤,智潤,Freedom
-지유,智柔,Wisdom
-지안,智安,Love
-민서,敏瑞,Luck
-지유,智柔,Beauty
-수아,秀娥,Peace
-채원,彩媛,Harmony
-하린,河潾,Harmony
-은서,恩瑞,Strength
-서연,瑞姸,Harmony
-지안,智安,Peace
-유나,柔那,Diligence
-윤서,潤瑞,Talent
-지우,智祐,Luck
-윤서,潤瑞,Love
-은서,恩瑞,Wisdom
-윤서,潤瑞,Nature
-지윤,智潤,Peace
-민서,敏瑞,Beauty
-다인,多仁,Harmony
-예린,藝潾,Peace
-수아,秀娥,Peace
-민서,敏瑞,Freedom
-윤서,潤瑞,Freedom
-예나,藝娜,Diligence
-예린,藝潾,Beauty
-아린,雅潾,Light / Hope
-수아,秀娥,Talent
-하은,河恩,Talent
-유나,柔那,Wisdom
-하윤,河潤,Beauty
-예린,藝潾,Talent
-예린,藝潾,Talent
-지유,智柔,Love
-다인,多仁,Nature
-지윤,智潤,Nature
-예나,藝娜,Harmony
-나은,娜恩,Harmony
-나은,娜恩,Peace
-하린,河潾,Talent
-채원,彩媛,Light / Hope
-지우,智祐,Nature
-수아,秀娥,Peace
-예린,藝潾,Talent
-윤서,潤瑞,Peace
-지유,智柔,Love
-다인,多仁,Peace
-나은,娜恩,Talent
-은서,恩瑞,Nature
-나은,娜恩,Light / Hope
-지윤,智潤,Nature
-하은,河恩,Love
-윤서,潤瑞,Luck
-하은,河恩,Diligence
-하윤,河潤,Strength
-민서,敏瑞,Nature
-서연,瑞姸,Talent
-민서,敏瑞,Wisdom
-채원,彩媛,Strength
-지유,智柔,Nature
-하은,河恩,Light / Hope
-나은,娜恩,Love
-지유,智柔,Peace
-다인,多仁,Diligence
-채원,彩媛,Harmony
-다인,多仁,Peace
-나은,娜恩,Diligence
-서연,瑞姸,Strength
-지우,智祐,Love
-지윤,智潤,Peace
-지안,智安,Beauty
-윤서,潤瑞,Diligence
-예린,藝潾,Beauty
-유나,柔那,Harmony
-하윤,河潤,Peace
-지우,智祐,Light / Hope
-윤서,潤瑞,Nature
-아린,雅潾,Freedom
-다인,多仁,Peace
-지윤,智潤,Talent
-채원,彩媛,Wisdom
-하윤,河潤,Wisdom
-서윤,瑞潤,Nature
-지우,智祐,Nature
-지유,智柔,Luck
-지윤,智潤,Harmony
-민서,敏瑞,Luck
-서윤,瑞潤,Strength
-하은,河恩,Luck
-채원,彩媛,Love
-나은,娜恩,Peace
-다인,多仁,Peace
-윤서,潤瑞,Wisdom
-수아,秀娥,Nature
-유나,柔那,Nature
-다인,多仁,Light / Hope
-다인,多仁,Peace
-나은,娜恩,Strength
-예나,藝娜,Light / Hope
-지유,智柔,Strength
-유나,柔那,Strength
-다인,多仁,Light / Hope
-다인,多仁,Peace
-은서,恩瑞,Harmony
-예나,藝娜,Nature
-윤서,潤瑞,Harmony
-지윤,智潤,Light / Hope
-하은,河恩,Strength
-하윤,河潤,Love
-서연,瑞姸,Freedom
-민서,敏瑞,Luck
-서윤,瑞潤,Strength
-서연,瑞姸,Strength
-하윤,河潤,Beauty
-하린,河潾,Luck
-유나,柔那,Diligence
-하윤,河潤,Love
-아린,雅潾,Nature
-윤서,潤瑞,Freedom
-유나,柔那,Strength
-나은,娜恩,Talent
-윤서,潤瑞,Nature
-하은,河恩,Freedom
-아린,雅潾,Luck
-채원,彩媛,Freedom
-하린,河潾,Beauty
-지유,智柔,Harmony
-나은,娜恩,Strength
-서윤,瑞潤,Freedom
-서윤,瑞潤,Nature
-아린,雅潾,Harmony
-수아,秀娥,Strength
-예나,藝娜,Beauty
-예나,藝娜,Freedom
-지안,智安,Luck
-아린,雅潾,Diligence
-나은,娜恩,Nature
-서윤,瑞潤,Strength
-아린,雅潾,Beauty
-은서,恩瑞,Talent
-아린,雅潾,Luck
-지안,智安,Peace
-서윤,瑞潤,Harmony
-지우,智祐,Wisdom
-하윤,河潤,Wisdom
-수아,秀娥,Luck
-수아,秀娥,Harmony
-지유,智柔,Nature
-아린,雅潾,Beauty
-하은,河恩,Beauty
-채원,彩媛,Peace
-다인,多仁,Harmony
-아린,雅潾,Wisdom
-서연,瑞姸,Beauty
-나은,娜恩,Strength
-하린,河潾,Peace
-하윤,河潤,Nature
-예린,藝潾,Diligence
-지유,智柔,Freedom
-다인,多仁,Strength
-지유,智柔,Light / Hope
-다인,多仁,Strength
-하윤,河潤,Light / Hope
-유나,柔那,Love
-하윤,河潤,Nature
-윤서,潤瑞,Freedom
-수아,秀娥,Beauty
-하윤,河潤,Wisdom
+﻿name,hanja,category,meaning,initial
+하은,花榮,Light,Radiance of the inner self,B
+서윤,賢潾,Wisdom,Mind guided by clarity,K
+하린,慧潤,Growth,Evolution through patience,K
+예빈,智宇,Joy,Happiness that inspires others,W
+서윤,潾弼,Faith,Trust built from sincerity,V
+지민,順燦,Love,Heart filled with compassion,C
+다혜,慧榮,Wisdom,Grace that enlightens the heart,H
+하윤,眞允,Wisdom,Mind guided by clarity,G
+민지,智成,Faith,Trust built from sincerity,I
+수빈,花基,Wisdom,Grace that enlightens the heart,W
+나연,瑛浩,Harmony,Unity of the great world,P
+채원,雅浩,Faith,Trust built from sincerity,D
+민지,瑛泰,Kindness,A gentle and caring soul,L
+유진,希永,Faith,Trust built from sincerity,T
+유진,眞允,Wisdom,Understanding beyond words,O
+예진,善基,Wisdom,Understanding beyond words,O
+유나,花基,Light,Beacon of truth and hope,C
+유진,雅賢,Wisdom,Grace that enlightens the heart,W
+지민,花信,Joy,Gratitude in simple moments,S
+소연,珠榮,Kindness,Empathy that heals others,T
+유나,順潾,Beauty,Natural charm of serenity,K
+아린,花信,Hope,Dream that lights the future,V
+서윤,珠燦,Harmony,Unity of the great world,T
+예빈,眞宇,Beauty,Grace shining like sunlight,Y
+채원,花燦,Beauty,Elegance born from kindness,C
+채원,眞燦,Love,Heart filled with compassion,P
+지수,彩浩,Faith,Devotion that strengthens the soul,L
+소연,智炫,Hope,Endless faith in tomorrow,P
+나연,眞宰,Kindness,A gentle and caring soul,J
+소연,恩哲,Wisdom,Understanding beyond words,S
+다인,美基,Light,Beacon of truth and hope,W
+서윤,眞哲,Joy,Happiness that inspires others,H
+예진,娜榮,Joy,Delight that fills the heart,S
+민지,眞民,Love,Pure affection and kindness,Q
+유진,智泰,Harmony,Balance of light and reflection,L
+서연,京永,Harmony,Unity of the great world,V
+아린,賢燦,Growth,Evolution through patience,G
+다혜,恩弼,Peace,Serenity of the gentle mind,U
+서윤,慧鎭,Wisdom,Grace that enlightens the heart,V
+서연,賢哲,Beauty,Elegance born from kindness,N
+유나,順周,Growth,Evolution through patience,D
+다연,賢潤,Growth,Journey of self-discovery,U
+서윤,慧永,Wisdom,Understanding beyond words,D
+수빈,順宰,Beauty,Elegance born from kindness,P
+다혜,彩成,Growth,Evolution through patience,A
+하윤,彩成,Kindness,A gentle and caring soul,F
+예진,珠基,Beauty,Grace shining like sunlight,P
+다혜,雅哲,Wisdom,Understanding beyond words,V
+민지,希鎭,Growth,Journey of self-discovery,D
+수빈,恩燦,Love,Pure affection and kindness,Y
+수빈,柔俊,Kindness,Empathy that heals others,E
+다혜,潾賢,Joy,Happiness that inspires others,I
+유나,柔宇,Wisdom,Grace that enlightens the heart,G
+나연,星浩,Light,Radiance of the inner self,O
+다혜,映永,Strength,Inner resilience and confidence,O
+민지,賢泰,Wisdom,Grace that enlightens the heart,S
+예진,星民,Faith,Trust built from sincerity,O
+하은,潤宇,Wisdom,Mind guided by clarity,H
+유나,瑛泰,Growth,Evolution through patience,J
+다연,雅鎭,Hope,Dream that lights the future,Y
+예빈,恩哲,Wisdom,Mind guided by clarity,F
+지민,智潤,Beauty,Natural charm of serenity,R
+수빈,眞周,Peace,Serenity of the gentle mind,G
+예진,希泰,Kindness,A gentle and caring soul,J
+서연,順榮,Peace,Calmness in every breath,F
+하윤,恩哲,Strength,Courage wrapped in gentleness,D
+서연,潤允,Light,Beacon of truth and hope,E
+민지,柔弼,Beauty,Natural charm of serenity,R
+아린,彩浩,Light,Purity that brightens hearts,F
+다연,星成,Harmony,Balance of light and reflection,Y
+예진,瑛泰,Faith,Trust built from sincerity,F
+지민,順俊,Hope,Promise of brighter days,C
+서연,善弼,Kindness,Generosity in spirit,M
+아린,順榮,Harmony,Balance of light and reflection,W
+지민,珠昊,Strength,Enduring calm power,D
+서연,潤潾,Faith,Belief that never falters,G
+채원,映基,Strength,Courage wrapped in gentleness,T
+하은,星浩,Love,Warmth that embraces the world,E
+하은,瑛燦,Wisdom,Grace that enlightens the heart,Z
+수빈,彩哲,Wisdom,Mind guided by clarity,G
+예빈,眞基,Growth,Evolution through patience,D
+지민,彩永,Faith,Devotion that strengthens the soul,X
+지수,恩宰,Love,Pure affection and kindness,G
+하린,柔允,Growth,Endless potential unfolding,U
+서연,眞潤,Growth,Evolution through patience,R
+수빈,娜潤,Faith,Belief that never falters,U
+하린,順潤,Strength,Enduring calm power,W
+다연,希昊,Beauty,Natural charm of serenity,Z
+하린,映宇,Strength,Enduring calm power,X
+유진,善勇,Strength,Inner resilience and confidence,M
+하린,雅榮,Peace,Serenity of the gentle mind,H
+수빈,恩成,Love,Heart filled with compassion,T
+아린,順哲,Strength,Inner resilience and confidence,Z
+유진,星炫,Joy,Happiness that inspires others,C
+다인,娜勇,Growth,Endless potential unfolding,Z
+민지,慧民,Hope,Endless faith in tomorrow,R
+하윤,星勇,Hope,Endless faith in tomorrow,B
+나연,智賢,Faith,Belief that never falters,F
+다인,瑛潾,Harmony,Calm coexistence with all things,R
+예빈,心宰,Hope,Dream that lights the future,L
+다인,順成,Kindness,A gentle and caring soul,E
+하윤,映宇,Beauty,Natural charm of serenity,S
+소연,智燦,Light,Beacon of truth and hope,Q
+아린,花周,Faith,Trust built from sincerity,O
+하린,美浩,Peace,Calmness in every breath,G
+나연,心昊,Light,Beacon of truth and hope,G
+하은,順成,Joy,Delight that fills the heart,T
+지수,希民,Kindness,A gentle and caring soul,H
+유진,恩勇,Wisdom,Grace that enlightens the heart,W
+아린,潾成,Kindness,Empathy that heals others,T
+하린,珠炫,Peace,Calmness in every breath,P
+민지,潤浩,Joy,Happiness that inspires others,T
+민지,映永,Hope,Promise of brighter days,M
+수빈,花泰,Joy,Delight that fills the heart,U
+수빈,娜信,Kindness,Generosity in spirit,Z
+다인,花潾,Growth,Evolution through patience,P
+나연,映永,Peace,Serenity of the gentle mind,Z
+하린,珠榮,Kindness,A gentle and caring soul,D
+하린,星賢,Joy,Delight that fills the heart,K
+아린,星泰,Strength,Courage wrapped in gentleness,V
+서윤,花宰,Joy,Happiness that inspires others,Y
+다혜,星哲,Harmony,Balance of light and reflection,K
+예빈,恩賢,Love,Heart filled with compassion,G
+민지,柔宰,Wisdom,Grace that enlightens the heart,K
+아린,瑛鎭,Strength,Enduring calm power,R
+예진,眞允,Peace,Serenity of the gentle mind,S
+하윤,恩民,Beauty,Natural charm of serenity,V
+나연,彩允,Joy,Gratitude in simple moments,Q
+하린,善宇,Kindness,Generosity in spirit,Y
+다인,心鎭,Light,Purity that brightens hearts,H
+서연,瑛哲,Wisdom,Grace that enlightens the heart,O
+예진,順燦,Faith,Devotion that strengthens the soul,S
+수빈,潤炫,Beauty,Grace shining like sunlight,D
+하윤,善炫,Wisdom,Understanding beyond words,F
+다연,珠永,Light,Beacon of truth and hope,E
+하린,慧勇,Joy,Gratitude in simple moments,Q
+다혜,雅弼,Faith,Devotion that strengthens the soul,H
+하린,映宰,Growth,Evolution through patience,R
+하린,映宇,Harmony,Balance of light and reflection,B
+채원,柔宰,Light,Radiance of the inner self,A
+다혜,星永,Peace,Serenity of the gentle mind,B
+다연,恩浩,Kindness,A gentle and caring soul,P
+예진,希昊,Hope,Endless faith in tomorrow,M
+서윤,柔賢,Light,Beacon of truth and hope,W
+서연,珠宇,Light,Radiance of the inner self,E
+하린,柔炫,Hope,Dream that lights the future,B
+다혜,希昊,Peace,Calmness in every breath,J
+유나,映宇,Light,Beacon of truth and hope,K
+하은,潤昊,Growth,Endless potential unfolding,V
+민지,潤賢,Kindness,Generosity in spirit,R
+서윤,善昊,Peace,Tranquility that soothes the soul,U
+아린,賢哲,Wisdom,Grace that enlightens the heart,I
+하은,希炫,Hope,Promise of brighter days,K
+서연,娜宇,Hope,Dream that lights the future,C
+민지,瑛弼,Harmony,Balance of light and reflection,G
+민지,心宇,Love,Warmth that embraces the world,A
+다혜,智成,Light,Purity that brightens hearts,I
+소연,眞弼,Light,Purity that brightens hearts,Q
+예빈,彩周,Strength,Inner resilience and confidence,Z
+다연,心信,Strength,Inner resilience and confidence,H
+지민,花浩,Kindness,A gentle and caring soul,B
+유나,希炫,Light,Purity that brightens hearts,Y
+지민,賢宇,Hope,Promise of brighter days,G
+나연,善成,Growth,Endless potential unfolding,P
+지민,恩哲,Light,Purity that brightens hearts,T
+예진,柔信,Love,Pure affection and kindness,M
+하린,彩宰,Kindness,Empathy that heals others,H
+지수,善允,Light,Beacon of truth and hope,K
+서연,星泰,Growth,Journey of self-discovery,R
+예빈,京宇,Beauty,Elegance born from kindness,R
+지민,娜泰,Growth,Evolution through patience,H
+다인,潤昊,Kindness,A gentle and caring soul,N
+나연,恩鎭,Kindness,Generosity in spirit,A
+예빈,慧俊,Joy,Gratitude in simple moments,Z
+다혜,娜浩,Growth,Endless potential unfolding,E
+소연,潤泰,Love,Heart filled with compassion,S
+하윤,花潾,Strength,Inner resilience and confidence,S
+예빈,善永,Beauty,Elegance born from kindness,E
+소연,心賢,Harmony,Calm coexistence with all things,E
+하린,彩永,Wisdom,Mind guided by clarity,I
+나연,瑛浩,Love,Heart filled with compassion,Q
+하은,娜炫,Growth,Journey of self-discovery,O
+유나,柔民,Hope,Endless faith in tomorrow,Q
+서연,希鎭,Joy,Delight that fills the heart,X
+유진,潤基,Kindness,Generosity in spirit,M
+채원,美炫,Strength,Enduring calm power,K
+다인,映基,Light,Radiance of the inner self,T
+예빈,京昊,Light,Purity that brightens hearts,Y
+민지,智弼,Strength,Courage wrapped in gentleness,A
+소연,潾炫,Strength,Inner resilience and confidence,H
+민지,希潾,Wisdom,Mind guided by clarity,S
+채원,眞榮,Wisdom,Mind guided by clarity,I
+소연,彩炫,Peace,Tranquility that soothes the soul,O
+하윤,希潾,Beauty,Grace shining like sunlight,L
+채원,善俊,Love,Warmth that embraces the world,H
+서연,善炫,Harmony,Calm coexistence with all things,A
+수빈,善鎭,Growth,Evolution through patience,Y
+민지,彩弼,Faith,Belief that never falters,F
+유나,珠民,Harmony,Balance of light and reflection,U
+예진,珠賢,Peace,Serenity of the gentle mind,X
+예진,心信,Beauty,Natural charm of serenity,A
+나연,雅燦,Hope,Promise of brighter days,L
+나연,智浩,Wisdom,Understanding beyond words,V
+하윤,希弼,Hope,Endless faith in tomorrow,Z
+다연,瑛成,Beauty,Grace shining like sunlight,R
+유진,美榮,Harmony,Balance of light and reflection,I
+아린,心民,Love,Warmth that embraces the world,O
+하윤,娜昊,Faith,Trust built from sincerity,I
+민지,柔民,Peace,Serenity of the gentle mind,K
+지민,賢成,Hope,Promise of brighter days,R
+민지,潤民,Wisdom,Mind guided by clarity,F
+소연,珠成,Beauty,Grace shining like sunlight,T
+민지,潤鎭,Beauty,Natural charm of serenity,C
+서윤,希俊,Harmony,Calm coexistence with all things,N
+하은,眞昊,Harmony,Balance of light and reflection,V
+다혜,美基,Faith,Trust built from sincerity,K
+다혜,希浩,Peace,Serenity of the gentle mind,P
+서연,眞燦,Hope,Endless faith in tomorrow,U
+다인,映浩,Light,Radiance of the inner self,I
+민지,潾民,Light,Purity that brightens hearts,V
+아린,希俊,Kindness,A gentle and caring soul,A
+지수,善弼,Beauty,Grace shining like sunlight,P
+나연,慧永,Joy,Delight that fills the heart,A
+다연,智成,Hope,Promise of brighter days,I
+나연,智炫,Growth,Journey of self-discovery,S
+지수,賢賢,Strength,Inner resilience and confidence,M
+다혜,希弼,Hope,Promise of brighter days,R
+예진,慧允,Faith,Belief that never falters,F
+하윤,希弼,Kindness,A gentle and caring soul,N
+소연,雅泰,Hope,Promise of brighter days,E
+민지,彩宰,Faith,Devotion that strengthens the soul,A
+예빈,潤信,Hope,Endless faith in tomorrow,G
+서연,眞賢,Peace,Tranquility that soothes the soul,D
+다인,彩浩,Growth,Journey of self-discovery,N
+하은,希鎭,Beauty,Elegance born from kindness,A
+지민,潾炫,Joy,Gratitude in simple moments,Q
+예진,珠燦,Growth,Journey of self-discovery,T
+민지,順宰,Beauty,Grace shining like sunlight,Z
+서윤,潾宇,Faith,Belief that never falters,S
+다인,珠允,Joy,Happiness that inspires others,L
+하윤,順昊,Faith,Devotion that strengthens the soul,S
+지민,花炫,Light,Radiance of the inner self,N
+서연,潤榮,Faith,Devotion that strengthens the soul,I
+아린,潤鎭,Growth,Evolution through patience,Q
+나연,柔宰,Light,Purity that brightens hearts,C
+지수,柔榮,Love,Warmth that embraces the world,S
+민지,花弼,Strength,Enduring calm power,Z
+지민,娜俊,Light,Beacon of truth and hope,J
+나연,映榮,Growth,Journey of self-discovery,R
+나연,京鎭,Peace,Calmness in every breath,P
+지수,恩信,Growth,Endless potential unfolding,B
+다혜,潤成,Growth,Journey of self-discovery,T
+지수,順允,Wisdom,Mind guided by clarity,M
+예진,心勇,Kindness,Generosity in spirit,G
+다연,京賢,Harmony,Balance of light and reflection,P
+지민,美信,Joy,Gratitude in simple moments,I
+하은,希賢,Love,Warmth that embraces the world,H
+유나,潤勇,Love,Warmth that embraces the world,H
+다인,雅哲,Hope,Promise of brighter days,M
+유진,柔鎭,Faith,Belief that never falters,C
+아린,京泰,Growth,Evolution through patience,U
+지민,京榮,Beauty,Elegance born from kindness,V
+다연,賢昊,Beauty,Grace shining like sunlight,Y
+지수,善賢,Kindness,Empathy that heals others,U
+채원,心永,Hope,Dream that lights the future,U
+나연,智勇,Growth,Journey of self-discovery,B
+유나,京周,Wisdom,Understanding beyond words,Z
+하은,星民,Strength,Inner resilience and confidence,Y
+지민,彩永,Wisdom,Understanding beyond words,I
+민지,珠燦,Beauty,Elegance born from kindness,E
+채원,潤榮,Harmony,Balance of light and reflection,P
+하은,心周,Beauty,Grace shining like sunlight,D
+서연,希炫,Growth,Evolution through patience,F
+하린,順浩,Hope,Endless faith in tomorrow,V
+나연,潾昊,Beauty,Elegance born from kindness,H
+지수,慧民,Faith,Belief that never falters,Z
+예진,彩基,Joy,Gratitude in simple moments,U
+하은,美基,Hope,Promise of brighter days,O
+하은,花允,Growth,Evolution through patience,R
+아린,眞勇,Joy,Happiness that inspires others,P
+다인,美宇,Faith,Devotion that strengthens the soul,Z
+예진,恩炫,Love,Heart filled with compassion,A
+예빈,賢賢,Love,Pure affection and kindness,V
+유진,善賢,Love,Warmth that embraces the world,Z
+나연,瑛燦,Kindness,Empathy that heals others,N
+유나,智浩,Hope,Dream that lights the future,A
+다연,善賢,Faith,Trust built from sincerity,S
+예빈,眞炫,Faith,Trust built from sincerity,A
+지민,花宰,Wisdom,Grace that enlightens the heart,J
+예진,潾潤,Kindness,Empathy that heals others,D
+지민,眞成,Light,Beacon of truth and hope,F
+예진,美允,Love,Pure affection and kindness,E
+예진,順民,Growth,Journey of self-discovery,H
+지수,善榮,Growth,Endless potential unfolding,G
+서연,潤昊,Hope,Endless faith in tomorrow,C
+아린,京浩,Beauty,Natural charm of serenity,H
+나연,柔浩,Light,Radiance of the inner self,W
+다연,希榮,Light,Radiance of the inner self,B
+서연,瑛燦,Faith,Trust built from sincerity,H
+예빈,眞潾,Joy,Happiness that inspires others,W
+수빈,恩潤,Growth,Journey of self-discovery,P
+소연,映昊,Joy,Gratitude in simple moments,Z
+하윤,心周,Harmony,Unity of the great world,E
+지민,娜宰,Hope,Dream that lights the future,I
+다연,希俊,Strength,Inner resilience and confidence,J
+지수,瑛宰,Wisdom,Understanding beyond words,O
+지수,娜基,Peace,Serenity of the gentle mind,O
+유진,慧榮,Strength,Inner resilience and confidence,L
+다혜,恩周,Joy,Gratitude in simple moments,N
+아린,瑛基,Growth,Evolution through patience,K
+지민,心民,Wisdom,Understanding beyond words,H
+나연,賢炫,Joy,Delight that fills the heart,R
+서윤,星成,Kindness,A gentle and caring soul,G
+서윤,瑛炫,Joy,Delight that fills the heart,V
+수빈,潤潤,Light,Radiance of the inner self,M
+다연,慧泰,Harmony,Balance of light and reflection,F
+수빈,希潤,Love,Heart filled with compassion,W
+소연,珠燦,Harmony,Balance of light and reflection,N
+지수,慧民,Wisdom,Understanding beyond words,R
+서윤,映宰,Strength,Inner resilience and confidence,C
+지수,賢賢,Wisdom,Mind guided by clarity,M
+다인,善哲,Light,Purity that brightens hearts,J
+다인,潤鎭,Wisdom,Grace that enlightens the heart,C
+다연,瑛永,Love,Pure affection and kindness,N
+예빈,潾潾,Light,Radiance of the inner self,J
+다혜,心宇,Strength,Courage wrapped in gentleness,B
+아린,星炫,Kindness,A gentle and caring soul,T
+민지,善昊,Strength,Inner resilience and confidence,G
+아린,花允,Hope,Endless faith in tomorrow,N
+나연,慧哲,Wisdom,Grace that enlightens the heart,N
+유나,彩宰,Beauty,Grace shining like sunlight,A
+하은,花炫,Growth,Journey of self-discovery,L
+다혜,雅賢,Faith,Devotion that strengthens the soul,O
+지수,雅鎭,Faith,Devotion that strengthens the soul,H
+다혜,恩成,Love,Heart filled with compassion,O
+서연,智泰,Hope,Dream that lights the future,E
+민지,眞周,Harmony,Unity of the great world,X
+나연,心潾,Hope,Promise of brighter days,F
+하윤,花炫,Wisdom,Mind guided by clarity,Y
+지민,賢潾,Hope,Promise of brighter days,Y
+서연,潾鎭,Kindness,Empathy that heals others,C
+예빈,娜成,Joy,Delight that fills the heart,J
+하윤,潤俊,Joy,Gratitude in simple moments,F
+지수,順民,Joy,Gratitude in simple moments,B
+나연,星基,Harmony,Calm coexistence with all things,S
+서연,心宇,Wisdom,Mind guided by clarity,O
+하윤,映基,Light,Beacon of truth and hope,K
+지수,珠浩,Wisdom,Grace that enlightens the heart,A
+아린,潾基,Joy,Happiness that inspires others,J
+아린,眞允,Peace,Tranquility that soothes the soul,N
+하은,映昊,Light,Purity that brightens hearts,B
+하린,美泰,Love,Warmth that embraces the world,G
+아린,花潤,Kindness,Empathy that heals others,L
+채원,眞昊,Light,Radiance of the inner self,F
+다혜,順成,Kindness,Generosity in spirit,W
+하윤,珠民,Kindness,A gentle and caring soul,U
+민지,希成,Peace,Serenity of the gentle mind,F
+하린,瑛炫,Harmony,Balance of light and reflection,V
+서연,希俊,Faith,Trust built from sincerity,L
+지민,星勇,Joy,Delight that fills the heart,Q
+다인,潾榮,Kindness,Empathy that heals others,T
+아린,星潾,Beauty,Natural charm of serenity,W
+채원,彩昊,Faith,Belief that never falters,W
+예빈,柔潤,Harmony,Calm coexistence with all things,Q
+소연,珠鎭,Peace,Serenity of the gentle mind,U
+유나,星永,Growth,Endless potential unfolding,U
+서연,順基,Strength,Enduring calm power,N
+민지,美潾,Harmony,Balance of light and reflection,E
+아린,慧潾,Faith,Devotion that strengthens the soul,O
+채원,眞潾,Wisdom,Mind guided by clarity,G
+지민,希弼,Love,Pure affection and kindness,N
+서윤,賢弼,Faith,Trust built from sincerity,I
+다인,潾泰,Growth,Journey of self-discovery,B
+수빈,花泰,Growth,Journey of self-discovery,X
+민지,賢賢,Hope,Promise of brighter days,P
+하은,瑛泰,Love,Pure affection and kindness,B
+수빈,善浩,Peace,Serenity of the gentle mind,Z
+채원,賢民,Kindness,Empathy that heals others,N
+수빈,心潤,Joy,Gratitude in simple moments,N
+서윤,珠基,Kindness,A gentle and caring soul,Y
+소연,花昊,Peace,Calmness in every breath,V
+하은,星成,Beauty,Elegance born from kindness,E
+아린,心賢,Hope,Dream that lights the future,V
+나연,京允,Peace,Serenity of the gentle mind,D
+지민,花勇,Harmony,Calm coexistence with all things,X
+하윤,花哲,Beauty,Grace shining like sunlight,W
+하린,雅燦,Kindness,Empathy that heals others,G
+나연,映永,Beauty,Natural charm of serenity,T
+나연,恩宇,Joy,Happiness that inspires others,P
+예빈,眞浩,Faith,Belief that never falters,G
+서윤,賢潤,Strength,Inner resilience and confidence,E
+지민,珠俊,Growth,Evolution through patience,W
+서연,智永,Hope,Promise of brighter days,A
+하린,善宇,Light,Radiance of the inner self,T
+하린,美永,Faith,Belief that never falters,T
+지수,京宇,Faith,Devotion that strengthens the soul,M
+다혜,珠永,Peace,Serenity of the gentle mind,E
+채원,京宰,Growth,Evolution through patience,M
+아린,眞賢,Kindness,A gentle and caring soul,M
+다연,恩宰,Joy,Happiness that inspires others,N
+유나,雅民,Faith,Belief that never falters,Z
+유진,順燦,Peace,Calmness in every breath,C
+채원,恩潾,Growth,Journey of self-discovery,S
+서윤,希浩,Love,Pure affection and kindness,O
+하은,恩基,Joy,Gratitude in simple moments,L
+아린,潤允,Kindness,Generosity in spirit,U
+예빈,順周,Strength,Enduring calm power,C
+서연,瑛賢,Beauty,Elegance born from kindness,K
+지수,潾周,Faith,Trust built from sincerity,I
+민지,美燦,Beauty,Grace shining like sunlight,A
+서윤,順民,Harmony,Calm coexistence with all things,U
+민지,潤民,Love,Pure affection and kindness,S
+예진,映宰,Strength,Inner resilience and confidence,C
+다연,心鎭,Peace,Calmness in every breath,F
+유진,彩賢,Joy,Gratitude in simple moments,U
+민지,希哲,Joy,Happiness that inspires others,U
+나연,雅宇,Love,Heart filled with compassion,P
+유진,珠浩,Light,Beacon of truth and hope,T
+예빈,珠周,Joy,Happiness that inspires others,V
+다연,眞炫,Light,Radiance of the inner self,D
+하윤,潤鎭,Kindness,Empathy that heals others,G
+다인,賢基,Love,Warmth that embraces the world,K
+아린,潾允,Light,Purity that brightens hearts,A
+예진,眞昊,Wisdom,Grace that enlightens the heart,D
+유진,花浩,Wisdom,Mind guided by clarity,N
+아린,潤賢,Strength,Inner resilience and confidence,E
+유나,心炫,Peace,Tranquility that soothes the soul,Y
+하윤,瑛弼,Growth,Journey of self-discovery,C
+다인,娜弼,Joy,Gratitude in simple moments,M
+서윤,恩燦,Growth,Journey of self-discovery,M
+아린,眞弼,Kindness,Empathy that heals others,H
+소연,恩永,Growth,Evolution through patience,K
+수빈,眞弼,Light,Radiance of the inner self,K
+서연,星賢,Beauty,Elegance born from kindness,F
+예빈,希俊,Faith,Trust built from sincerity,G
+지수,恩宰,Growth,Journey of self-discovery,A
+나연,美成,Hope,Endless faith in tomorrow,C
+하윤,花泰,Peace,Serenity of the gentle mind,O
+채원,恩鎭,Hope,Endless faith in tomorrow,I
+민지,賢潤,Peace,Tranquility that soothes the soul,I
+유진,希燦,Strength,Inner resilience and confidence,H
+하윤,柔潾,Faith,Devotion that strengthens the soul,B
+다혜,映昊,Growth,Journey of self-discovery,L
+수빈,映炫,Beauty,Natural charm of serenity,G
+다인,娜弼,Strength,Enduring calm power,Y
+하윤,心炫,Strength,Enduring calm power,C
+예진,柔成,Joy,Happiness that inspires others,Q
+예빈,潤哲,Love,Heart filled with compassion,X
+지수,星哲,Growth,Endless potential unfolding,V
+지민,星成,Wisdom,Mind guided by clarity,H
+유나,智泰,Faith,Belief that never falters,V
+다혜,希榮,Beauty,Natural charm of serenity,J
+나연,潤浩,Hope,Endless faith in tomorrow,B
+다혜,彩信,Hope,Endless faith in tomorrow,P
+나연,映宇,Love,Heart filled with compassion,H
+하윤,雅基,Harmony,Unity of the great world,L
+수빈,珠宰,Joy,Happiness that inspires others,E
+다인,賢昊,Joy,Happiness that inspires others,X
+하윤,慧潤,Kindness,Empathy that heals others,W
+유나,彩榮,Hope,Dream that lights the future,N
+예빈,希賢,Harmony,Unity of the great world,E
+예진,珠宇,Strength,Enduring calm power,Q
+하린,智泰,Love,Pure affection and kindness,B
+서연,珠信,Love,Pure affection and kindness,R
+유나,星榮,Peace,Tranquility that soothes the soul,W
+지민,順永,Hope,Endless faith in tomorrow,I
+서연,珠永,Peace,Serenity of the gentle mind,C
+소연,善信,Hope,Dream that lights the future,S
+하은,星宇,Joy,Happiness that inspires others,J
+서연,瑛賢,Joy,Gratitude in simple moments,E
+예빈,慧基,Harmony,Balance of light and reflection,W
+수빈,雅鎭,Light,Beacon of truth and hope,A
+다혜,京弼,Joy,Delight that fills the heart,E
+예진,恩浩,Love,Warmth that embraces the world,J
+유나,潤潤,Faith,Trust built from sincerity,G
+유나,心宇,Hope,Promise of brighter days,S
+예진,珠鎭,Harmony,Calm coexistence with all things,L
+지민,慧允,Faith,Belief that never falters,H
+지민,恩信,Beauty,Natural charm of serenity,R
+하윤,慧榮,Strength,Courage wrapped in gentleness,U
+다연,瑛潾,Peace,Tranquility that soothes the soul,L
+다인,京泰,Faith,Belief that never falters,F
+유나,星勇,Light,Radiance of the inner self,C
+예진,恩弼,Love,Heart filled with compassion,E
+서연,花鎭,Love,Warmth that embraces the world,M
+지민,心基,Growth,Evolution through patience,K
+소연,京勇,Love,Heart filled with compassion,S
+유진,潾浩,Light,Radiance of the inner self,F
+예진,京宇,Wisdom,Mind guided by clarity,F
+하린,美成,Joy,Happiness that inspires others,C
+소연,恩榮,Faith,Devotion that strengthens the soul,M
+다연,娜民,Light,Purity that brightens hearts,S
+예진,心浩,Wisdom,Grace that enlightens the heart,W
+채원,珠燦,Love,Warmth that embraces the world,I
+하윤,眞泰,Light,Radiance of the inner self,A
+채원,智宰,Faith,Devotion that strengthens the soul,W
+유진,潤昊,Love,Warmth that embraces the world,Z
+하린,美炫,Growth,Evolution through patience,X
+예빈,恩宇,Peace,Tranquility that soothes the soul,Z
+다인,柔民,Peace,Serenity of the gentle mind,F
+하윤,眞基,Love,Warmth that embraces the world,W
+하은,賢潾,Light,Purity that brightens hearts,O
+하윤,順成,Hope,Promise of brighter days,E
+아린,映弼,Joy,Happiness that inspires others,P
+유진,善炫,Growth,Evolution through patience,N
+하린,眞周,Harmony,Balance of light and reflection,V
+아린,希泰,Love,Warmth that embraces the world,H
+지민,星賢,Beauty,Natural charm of serenity,S
+하린,恩榮,Wisdom,Grace that enlightens the heart,L
+소연,柔哲,Strength,Courage wrapped in gentleness,E
+다연,柔周,Kindness,Empathy that heals others,G
+서연,心昊,Peace,Tranquility that soothes the soul,T
+하린,賢民,Growth,Endless potential unfolding,T
+다연,潤永,Peace,Tranquility that soothes the soul,W
+하은,恩榮,Wisdom,Grace that enlightens the heart,V
+민지,恩基,Beauty,Grace shining like sunlight,K
+지민,希宰,Faith,Devotion that strengthens the soul,C
+다연,娜浩,Kindness,Empathy that heals others,U
+소연,美賢,Joy,Delight that fills the heart,Y
+지수,柔勇,Growth,Journey of self-discovery,R
+예빈,善昊,Kindness,A gentle and caring soul,F
+유진,慧榮,Peace,Serenity of the gentle mind,M
+지수,賢民,Faith,Belief that never falters,K
+다인,柔鎭,Love,Heart filled with compassion,C
+서윤,映宰,Faith,Devotion that strengthens the soul,Q
+서윤,心宇,Harmony,Balance of light and reflection,L
+예빈,映俊,Kindness,Empathy that heals others,Y
+예빈,瑛宰,Beauty,Grace shining like sunlight,P
+유나,潾泰,Beauty,Natural charm of serenity,N
+하린,希賢,Strength,Inner resilience and confidence,K
+아린,恩弼,Wisdom,Understanding beyond words,V
+소연,彩允,Wisdom,Understanding beyond words,P
+지수,雅弼,Hope,Endless faith in tomorrow,D
+지수,瑛賢,Harmony,Unity of the great world,W
+수빈,雅俊,Joy,Delight that fills the heart,Q
+다혜,京炫,Love,Pure affection and kindness,L
+채원,映榮,Peace,Calmness in every breath,U
+하윤,心榮,Strength,Inner resilience and confidence,C
+유나,潤燦,Growth,Endless potential unfolding,Q
+서윤,星鎭,Joy,Happiness that inspires others,A
+서윤,善成,Kindness,A gentle and caring soul,S
+아린,眞永,Harmony,Unity of the great world,R
+유나,娜泰,Strength,Inner resilience and confidence,D
+하은,雅信,Faith,Belief that never falters,T
+다인,善燦,Hope,Endless faith in tomorrow,M
+하은,柔俊,Faith,Belief that never falters,Q
+민지,順永,Love,Pure affection and kindness,N
+나연,賢俊,Strength,Enduring calm power,H
+유나,潾浩,Faith,Belief that never falters,I
+민지,智浩,Beauty,Elegance born from kindness,S
+지민,潾勇,Beauty,Grace shining like sunlight,N
+다연,慧賢,Kindness,Generosity in spirit,U
+다연,花成,Hope,Promise of brighter days,D
+유진,雅泰,Kindness,Generosity in spirit,Q
+예빈,美昊,Wisdom,Understanding beyond words,I
+채원,希基,Strength,Enduring calm power,S
+서윤,星哲,Faith,Belief that never falters,K
+서윤,智允,Joy,Delight that fills the heart,Z
+아린,雅信,Light,Radiance of the inner self,J
+하은,智燦,Wisdom,Grace that enlightens the heart,E
+다연,瑛賢,Faith,Belief that never falters,D
+채원,瑛基,Faith,Trust built from sincerity,P
+채원,花浩,Joy,Happiness that inspires others,Z
+다혜,潤炫,Wisdom,Grace that enlightens the heart,Y
+다인,瑛浩,Wisdom,Grace that enlightens the heart,X
+나연,映榮,Beauty,Elegance born from kindness,G
+소연,星宇,Harmony,Balance of light and reflection,U
+유나,恩成,Kindness,A gentle and caring soul,C
+다혜,星燦,Wisdom,Grace that enlightens the heart,E
+서연,星俊,Joy,Gratitude in simple moments,R
+지수,心炫,Hope,Endless faith in tomorrow,F
+서윤,善勇,Joy,Happiness that inspires others,X
+아린,潤弼,Beauty,Elegance born from kindness,B
+서연,智允,Beauty,Grace shining like sunlight,I
+수빈,恩潾,Joy,Delight that fills the heart,V
+하윤,善潾,Joy,Delight that fills the heart,Z
+유진,娜賢,Hope,Promise of brighter days,I
+하린,恩基,Peace,Serenity of the gentle mind,H
+예빈,美宇,Peace,Calmness in every breath,X
+다연,美哲,Peace,Tranquility that soothes the soul,J
+유나,京鎭,Joy,Happiness that inspires others,G
+다인,恩鎭,Faith,Belief that never falters,Y
+하은,慧燦,Kindness,A gentle and caring soul,M
+하윤,潤宇,Joy,Gratitude in simple moments,Y
+예진,星永,Love,Pure affection and kindness,F
+유진,潤弼,Harmony,Unity of the great world,K
+수빈,星允,Light,Radiance of the inner self,I
+나연,心炫,Strength,Enduring calm power,E
+다인,星鎭,Faith,Devotion that strengthens the soul,O
+하은,星泰,Peace,Calmness in every breath,V
+서윤,善信,Wisdom,Grace that enlightens the heart,O
+채원,雅勇,Love,Heart filled with compassion,R
+다인,恩泰,Hope,Dream that lights the future,I
+아린,恩勇,Strength,Courage wrapped in gentleness,Z
+하은,柔炫,Harmony,Balance of light and reflection,N
+예진,智周,Faith,Belief that never falters,Z
+지민,京周,Hope,Dream that lights the future,G
+지민,恩炫,Wisdom,Grace that enlightens the heart,C
+지수,慧燦,Beauty,Elegance born from kindness,T
+아린,智勇,Strength,Inner resilience and confidence,Y
+서윤,恩永,Faith,Trust built from sincerity,K
+유진,柔宰,Wisdom,Grace that enlightens the heart,P
+지수,珠賢,Strength,Inner resilience and confidence,I
+민지,眞宰,Wisdom,Understanding beyond words,D
+채원,瑛宰,Light,Radiance of the inner self,E
+지수,潤成,Peace,Serenity of the gentle mind,A
+지민,美昊,Beauty,Elegance born from kindness,J
+서연,善昊,Beauty,Grace shining like sunlight,P
+수빈,映宇,Beauty,Grace shining like sunlight,A
+민지,潾燦,Growth,Evolution through patience,L
+수빈,映成,Love,Heart filled with compassion,O
+나연,花潤,Harmony,Unity of the great world,H
+나연,眞賢,Kindness,Empathy that heals others,R
+아린,慧允,Love,Pure affection and kindness,Q
+민지,慧成,Light,Radiance of the inner self,P
+아린,花允,Love,Warmth that embraces the world,C
+예빈,賢燦,Peace,Serenity of the gentle mind,R
+예빈,美周,Love,Warmth that embraces the world,X
+나연,花賢,Strength,Inner resilience and confidence,U
+채원,眞潾,Strength,Inner resilience and confidence,F
+소연,慧成,Joy,Gratitude in simple moments,H
+예빈,彩哲,Hope,Endless faith in tomorrow,Z
+하은,娜宰,Beauty,Natural charm of serenity,J
+예진,花周,Peace,Calmness in every breath,Q
+하윤,恩潤,Harmony,Balance of light and reflection,J
+하윤,雅永,Joy,Happiness that inspires others,T
+민지,賢永,Peace,Serenity of the gentle mind,U
+다연,賢宰,Harmony,Balance of light and reflection,G
+서윤,彩泰,Peace,Serenity of the gentle mind,H
+다인,恩周,Kindness,Empathy that heals others,E
+다인,智潤,Beauty,Elegance born from kindness,J
+소연,彩燦,Love,Pure affection and kindness,Z
+나연,慧成,Beauty,Grace shining like sunlight,M
+서연,花允,Hope,Dream that lights the future,T
+다연,瑛潾,Hope,Promise of brighter days,T
+다혜,善弼,Beauty,Natural charm of serenity,G
+다혜,智信,Light,Radiance of the inner self,O
+수빈,慧成,Harmony,Unity of the great world,K
+나연,慧泰,Joy,Delight that fills the heart,X
+예빈,善勇,Love,Warmth that embraces the world,Y
+소연,眞潤,Faith,Belief that never falters,I
+유진,慧成,Growth,Endless potential unfolding,F
+나연,賢燦,Hope,Promise of brighter days,A
+다연,星燦,Faith,Devotion that strengthens the soul,Q
+수빈,心潤,Faith,Belief that never falters,X
+유나,善民,Strength,Inner resilience and confidence,I
+서연,潤成,Harmony,Balance of light and reflection,K
+유나,京周,Light,Purity that brightens hearts,R
+예진,恩宇,Joy,Delight that fills the heart,U
+예진,恩浩,Beauty,Natural charm of serenity,L
+지수,慧昊,Strength,Courage wrapped in gentleness,F
+아린,美賢,Love,Warmth that embraces the world,T
+지수,美哲,Kindness,Empathy that heals others,D
+지수,眞泰,Hope,Dream that lights the future,H
+다인,潤基,Joy,Delight that fills the heart,P
+민지,恩弼,Growth,Journey of self-discovery,U
+소연,美潾,Peace,Tranquility that soothes the soul,N
+예진,映潤,Love,Heart filled with compassion,X
+예빈,雅泰,Faith,Trust built from sincerity,V
+수빈,智炫,Wisdom,Grace that enlightens the heart,F
+채원,慧浩,Faith,Devotion that strengthens the soul,M
+다혜,映信,Peace,Tranquility that soothes the soul,W
+하윤,智允,Kindness,A gentle and caring soul,X
+아린,美炫,Love,Heart filled with compassion,Z
+수빈,瑛周,Wisdom,Mind guided by clarity,S
+소연,京燦,Growth,Evolution through patience,A
+하윤,恩勇,Faith,Trust built from sincerity,K
+수빈,娜宰,Hope,Endless faith in tomorrow,P
+하은,眞成,Peace,Serenity of the gentle mind,Q
+하은,珠哲,Faith,Trust built from sincerity,U
+다인,娜潾,Strength,Courage wrapped in gentleness,G
+예빈,順賢,Joy,Delight that fills the heart,O
+예빈,順昊,Harmony,Balance of light and reflection,D
+소연,娜宰,Faith,Trust built from sincerity,E
+지민,心弼,Peace,Calmness in every breath,R
+하은,智勇,Beauty,Grace shining like sunlight,G
+채원,美浩,Kindness,Generosity in spirit,T
+수빈,柔允,Harmony,Unity of the great world,W
+예진,雅賢,Hope,Promise of brighter days,D
+서윤,賢民,Harmony,Balance of light and reflection,A
+유진,潾哲,Light,Radiance of the inner self,W
+하린,美燦,Kindness,A gentle and caring soul,Q
+서연,智炫,Growth,Evolution through patience,B
+다연,映賢,Peace,Serenity of the gentle mind,T
+유진,善信,Peace,Tranquility that soothes the soul,H
+소연,賢永,Growth,Endless potential unfolding,G
+서연,美潾,Peace,Serenity of the gentle mind,R
+유나,花榮,Kindness,A gentle and caring soul,D
+하린,星俊,Joy,Happiness that inspires others,Z
+민지,雅勇,Peace,Tranquility that soothes the soul,S
+민지,順永,Peace,Tranquility that soothes the soul,E
+하린,心潤,Wisdom,Grace that enlightens the heart,A
+서윤,潤潤,Joy,Delight that fills the heart,L
+채원,潾成,Growth,Evolution through patience,Q
+예빈,恩泰,Love,Pure affection and kindness,S
+지민,瑛勇,Hope,Promise of brighter days,C
+하린,瑛泰,Harmony,Balance of light and reflection,Z
+다연,娜基,Strength,Enduring calm power,F
+소연,潤宇,Wisdom,Mind guided by clarity,H
+지수,恩俊,Faith,Belief that never falters,O
+다인,珠潾,Wisdom,Grace that enlightens the heart,E
+채원,潤永,Harmony,Calm coexistence with all things,O
+수빈,恩永,Light,Radiance of the inner self,P
+예빈,娜浩,Kindness,Generosity in spirit,D
+하은,雅榮,Peace,Tranquility that soothes the soul,R
+지수,潾勇,Kindness,A gentle and caring soul,O
+지수,希昊,Peace,Tranquility that soothes the soul,T
+채원,潾榮,Peace,Serenity of the gentle mind,J
+지수,慧宰,Peace,Tranquility that soothes the soul,W
+유진,星民,Faith,Belief that never falters,P
+수빈,潤勇,Love,Heart filled with compassion,A
+소연,星俊,Harmony,Unity of the great world,G
+하윤,星炫,Light,Beacon of truth and hope,Z
+다혜,潤賢,Peace,Tranquility that soothes the soul,I
+지수,恩弼,Hope,Endless faith in tomorrow,E
+채원,星燦,Faith,Belief that never falters,N
+예진,映永,Kindness,Empathy that heals others,B
+다인,眞基,Love,Heart filled with compassion,J
+소연,柔宰,Joy,Delight that fills the heart,S
+하윤,善哲,Wisdom,Understanding beyond words,N
+다혜,瑛弼,Wisdom,Understanding beyond words,E
+소연,順允,Faith,Trust built from sincerity,R
+서연,瑛哲,Peace,Calmness in every breath,T
+하윤,潤炫,Beauty,Elegance born from kindness,N
+예빈,眞周,Kindness,Generosity in spirit,P
+아린,映哲,Light,Beacon of truth and hope,G
+서윤,慧榮,Hope,Dream that lights the future,E
+채원,心俊,Strength,Inner resilience and confidence,D
+하은,眞浩,Light,Beacon of truth and hope,B
+유나,京鎭,Beauty,Elegance born from kindness,F
+유나,柔周,Growth,Evolution through patience,U
+다연,柔炫,Love,Warmth that embraces the world,Y
+다혜,善宰,Kindness,Generosity in spirit,E
+유나,京允,Wisdom,Grace that enlightens the heart,K
+유나,珠燦,Love,Pure affection and kindness,E
+아린,瑛民,Wisdom,Grace that enlightens the heart,D
+하린,柔潾,Hope,Dream that lights the future,G
+다혜,慧民,Hope,Promise of brighter days,J
+아린,雅哲,Joy,Gratitude in simple moments,N
+하은,恩燦,Love,Pure affection and kindness,M
+민지,娜宰,Joy,Happiness that inspires others,U
+지민,潾民,Wisdom,Mind guided by clarity,L
+서윤,希永,Faith,Trust built from sincerity,V
+서연,潾潤,Love,Pure affection and kindness,U
+하은,善周,Light,Beacon of truth and hope,C
+예진,智炫,Beauty,Elegance born from kindness,J
+유나,恩弼,Peace,Serenity of the gentle mind,Z
+민지,京哲,Faith,Devotion that strengthens the soul,X
+예진,美基,Light,Radiance of the inner self,U
+서윤,雅勇,Wisdom,Grace that enlightens the heart,Q
+채원,映永,Beauty,Natural charm of serenity,P
+다인,恩信,Beauty,Grace shining like sunlight,E
+다인,柔哲,Harmony,Calm coexistence with all things,V
+하린,花允,Wisdom,Mind guided by clarity,P
+다인,順允,Joy,Gratitude in simple moments,O
+아린,潤信,Kindness,Generosity in spirit,I
+나연,眞浩,Wisdom,Mind guided by clarity,Z
+지수,珠昊,Wisdom,Understanding beyond words,L
+다혜,希民,Beauty,Grace shining like sunlight,Z
+다혜,恩榮,Joy,Delight that fills the heart,Z
+하윤,花周,Growth,Endless potential unfolding,Y
+채원,雅潤,Faith,Belief that never falters,M
+민지,恩民,Strength,Courage wrapped in gentleness,D
+소연,智信,Growth,Journey of self-discovery,E
+하린,希潤,Love,Warmth that embraces the world,U
+아린,瑛哲,Harmony,Calm coexistence with all things,V
+채원,智俊,Kindness,Generosity in spirit,K
+하윤,潾勇,Hope,Dream that lights the future,I
+하린,智潾,Peace,Calmness in every breath,M
+예빈,京允,Kindness,A gentle and caring soul,H
+예진,珠周,Light,Radiance of the inner self,X
+예빈,柔勇,Strength,Enduring calm power,Z
+지민,希俊,Hope,Dream that lights the future,I
+수빈,星哲,Beauty,Grace shining like sunlight,V
+유나,美民,Growth,Endless potential unfolding,J
+지수,恩弼,Hope,Endless faith in tomorrow,V
+다인,娜燦,Light,Radiance of the inner self,T
+지수,京宰,Peace,Tranquility that soothes the soul,Q
+다혜,賢潾,Peace,Calmness in every breath,H
+서윤,瑛信,Joy,Happiness that inspires others,O
+예빈,恩泰,Peace,Calmness in every breath,S
+서연,花勇,Wisdom,Understanding beyond words,T
+다연,娜宰,Light,Beacon of truth and hope,F
+아린,京浩,Strength,Courage wrapped in gentleness,G
+지수,星成,Kindness,Generosity in spirit,Q
+민지,順炫,Harmony,Unity of the great world,O
+다연,彩燦,Wisdom,Grace that enlightens the heart,W
+민지,雅燦,Light,Beacon of truth and hope,R
+다인,娜賢,Peace,Calmness in every breath,O
+하은,心潾,Peace,Serenity of the gentle mind,P
+유나,慧潾,Strength,Enduring calm power,Z
+소연,珠俊,Light,Purity that brightens hearts,R
+서연,善泰,Kindness,Generosity in spirit,Y
+유나,映勇,Joy,Delight that fills the heart,T
+소연,智俊,Growth,Journey of self-discovery,M
+지수,京俊,Kindness,Generosity in spirit,A
+소연,珠勇,Kindness,Empathy that heals others,I
+다연,柔弼,Love,Heart filled with compassion,J
+유진,潾燦,Growth,Journey of self-discovery,O
+유나,眞炫,Harmony,Unity of the great world,W
+민지,潾炫,Light,Beacon of truth and hope,I
+다혜,眞哲,Hope,Endless faith in tomorrow,Q
+하윤,星信,Love,Warmth that embraces the world,K
+민지,美民,Hope,Dream that lights the future,J
+다인,雅炫,Beauty,Grace shining like sunlight,S
+지수,善潤,Hope,Promise of brighter days,E
+채원,珠弼,Peace,Calmness in every breath,C
+다연,珠燦,Harmony,Unity of the great world,W
+하은,潾賢,Joy,Happiness that inspires others,N
+유진,恩賢,Faith,Devotion that strengthens the soul,D
+서연,心永,Beauty,Grace shining like sunlight,O
+유나,智泰,Love,Pure affection and kindness,U
+수빈,柔賢,Strength,Inner resilience and confidence,V
+지수,珠基,Love,Pure affection and kindness,V
+지민,善炫,Light,Beacon of truth and hope,I
+다혜,眞俊,Light,Purity that brightens hearts,J
+다연,美昊,Growth,Endless potential unfolding,B
+하린,彩永,Love,Heart filled with compassion,Q
+지민,彩榮,Strength,Enduring calm power,M
+예빈,雅永,Harmony,Balance of light and reflection,S
+아린,珠浩,Hope,Endless faith in tomorrow,Q
+예진,潤勇,Light,Beacon of truth and hope,U
+채원,雅宰,Joy,Delight that fills the heart,Q
+소연,希信,Beauty,Grace shining like sunlight,O
+채원,恩炫,Beauty,Natural charm of serenity,C
+민지,恩鎭,Growth,Journey of self-discovery,V
+소연,慧潾,Joy,Happiness that inspires others,N
+지민,彩基,Kindness,Generosity in spirit,F
+하린,恩民,Love,Warmth that embraces the world,R
+지수,恩宇,Strength,Inner resilience and confidence,U
+소연,潾永,Beauty,Natural charm of serenity,N
+예빈,慧基,Peace,Tranquility that soothes the soul,S
+수빈,慧永,Faith,Devotion that strengthens the soul,R
+하은,善信,Growth,Endless potential unfolding,V
+하윤,恩潾,Growth,Endless potential unfolding,J
+하윤,眞浩,Strength,Enduring calm power,R
+아린,希周,Light,Purity that brightens hearts,F
+예빈,恩宰,Faith,Belief that never falters,J
+서윤,賢民,Joy,Gratitude in simple moments,X
+예빈,彩宇,Peace,Tranquility that soothes the soul,D
+다연,珠昊,Light,Purity that brightens hearts,N
+다인,賢泰,Wisdom,Understanding beyond words,S
+수빈,京勇,Joy,Gratitude in simple moments,Y
+지민,珠宰,Love,Pure affection and kindness,G
+민지,慧榮,Harmony,Balance of light and reflection,X
+민지,珠允,Peace,Tranquility that soothes the soul,G
+지수,映浩,Strength,Inner resilience and confidence,S
+채원,恩鎭,Love,Pure affection and kindness,V
+유나,慧周,Peace,Serenity of the gentle mind,S
+소연,恩俊,Love,Pure affection and kindness,P
+하윤,恩俊,Faith,Belief that never falters,P
+예진,恩宰,Hope,Endless faith in tomorrow,W
+하린,智鎭,Peace,Tranquility that soothes the soul,G
+다인,慧基,Beauty,Elegance born from kindness,D
+서연,映永,Peace,Serenity of the gentle mind,H
+소연,恩宰,Light,Beacon of truth and hope,H
+다연,花周,Peace,Serenity of the gentle mind,H
+예빈,雅允,Faith,Belief that never falters,S
+민지,娜永,Harmony,Unity of the great world,N
+지수,潾榮,Kindness,Empathy that heals others,W
+지수,雅周,Harmony,Unity of the great world,T
+다혜,星勇,Light,Beacon of truth and hope,F
+민지,恩潾,Peace,Calmness in every breath,W
+예빈,星浩,Strength,Enduring calm power,M
+유나,潤成,Love,Warmth that embraces the world,L
+예진,京允,Peace,Tranquility that soothes the soul,K
+예진,美允,Strength,Enduring calm power,I
+다연,希潾,Growth,Evolution through patience,I
+소연,賢潤,Wisdom,Mind guided by clarity,R
+아린,花基,Harmony,Balance of light and reflection,B
+하은,賢允,Joy,Happiness that inspires others,H
+하린,希榮,Growth,Endless potential unfolding,R
+예진,映浩,Love,Heart filled with compassion,A
+채원,恩榮,Joy,Delight that fills the heart,C
+유나,潤賢,Faith,Trust built from sincerity,D
+다연,雅鎭,Kindness,Empathy that heals others,W
+서윤,柔榮,Harmony,Calm coexistence with all things,L
+지민,順潾,Growth,Journey of self-discovery,Y
+서윤,彩潾,Growth,Endless potential unfolding,H
+하린,映基,Peace,Calmness in every breath,A
+소연,恩永,Strength,Inner resilience and confidence,C
+예진,彩永,Wisdom,Understanding beyond words,M
+하은,娜允,Light,Radiance of the inner self,F
+지수,眞炫,Growth,Endless potential unfolding,F
+아린,美鎭,Beauty,Elegance born from kindness,X
+예빈,心浩,Faith,Devotion that strengthens the soul,M
+예진,娜昊,Strength,Courage wrapped in gentleness,S
+서연,順燦,Wisdom,Grace that enlightens the heart,Y
+유진,心賢,Harmony,Calm coexistence with all things,N
+지수,希賢,Wisdom,Grace that enlightens the heart,Y
+채원,彩允,Light,Radiance of the inner self,P
+나연,眞宰,Growth,Evolution through patience,E
+서연,柔潤,Faith,Trust built from sincerity,H
+유진,珠基,Faith,Belief that never falters,H
+다연,京賢,Love,Pure affection and kindness,H
+유진,瑛宰,Joy,Gratitude in simple moments,M
+유나,京永,Wisdom,Understanding beyond words,E
+소연,瑛允,Strength,Courage wrapped in gentleness,E
+하은,恩昊,Faith,Devotion that strengthens the soul,S
+다연,彩俊,Light,Purity that brightens hearts,G
+민지,眞俊,Wisdom,Understanding beyond words,O
+다인,恩浩,Growth,Endless potential unfolding,K
+유진,心浩,Growth,Evolution through patience,Z
+예진,眞潤,Peace,Serenity of the gentle mind,R
+하은,彩基,Love,Heart filled with compassion,D
+유진,潤基,Beauty,Grace shining like sunlight,J
+유진,珠俊,Hope,Promise of brighter days,M
+유진,珠信,Kindness,Empathy that heals others,I
+예빈,珠弼,Light,Purity that brightens hearts,H
+아린,善榮,Love,Warmth that embraces the world,N
+다혜,恩昊,Hope,Promise of brighter days,T
+민지,賢浩,Faith,Devotion that strengthens the soul,W
+하은,彩榮,Hope,Dream that lights the future,G
+나연,雅泰,Beauty,Natural charm of serenity,M
+하은,恩賢,Growth,Endless potential unfolding,N
+지수,柔成,Hope,Promise of brighter days,F
+서연,彩浩,Growth,Journey of self-discovery,A
+지민,順炫,Kindness,Empathy that heals others,G
+지민,瑛浩,Kindness,Generosity in spirit,Y
+나연,娜鎭,Growth,Journey of self-discovery,A
+수빈,慧鎭,Strength,Enduring calm power,T
+예빈,京賢,Strength,Courage wrapped in gentleness,X
+지민,映宇,Harmony,Unity of the great world,W
+나연,慧成,Light,Purity that brightens hearts,V
+나연,智允,Beauty,Elegance born from kindness,O
+유나,瑛泰,Love,Pure affection and kindness,T
+예빈,慧榮,Harmony,Unity of the great world,M
+유진,善宰,Wisdom,Understanding beyond words,B
+지수,美民,Growth,Journey of self-discovery,A
+서윤,映宰,Kindness,Empathy that heals others,K
+하은,京鎭,Beauty,Elegance born from kindness,Z
+하린,心潤,Wisdom,Mind guided by clarity,X
+채원,珠賢,Harmony,Balance of light and reflection,L
+예진,花弼,Kindness,Generosity in spirit,T
+유진,珠基,Kindness,Empathy that heals others,F
+수빈,柔信,Kindness,A gentle and caring soul,H
+나연,京基,Wisdom,Mind guided by clarity,I
+유나,花基,Harmony,Calm coexistence with all things,M
+하윤,潤昊,Faith,Trust built from sincerity,B
+서윤,京民,Beauty,Elegance born from kindness,B
+유진,恩燦,Strength,Inner resilience and confidence,B
+민지,京成,Love,Pure affection and kindness,D
+예빈,美宇,Kindness,A gentle and caring soul,U
+하은,恩俊,Strength,Enduring calm power,G
+다혜,心基,Love,Warmth that embraces the world,I
+예빈,希周,Growth,Journey of self-discovery,J
+지수,京哲,Light,Purity that brightens hearts,C
+유나,瑛潾,Kindness,Empathy that heals others,D
+서연,潤勇,Growth,Journey of self-discovery,G
+채원,恩潤,Growth,Evolution through patience,P
+하린,恩俊,Peace,Serenity of the gentle mind,F
+채원,彩勇,Peace,Serenity of the gentle mind,A
+서연,美民,Kindness,Empathy that heals others,V
+아린,花哲,Peace,Calmness in every breath,Y
+채원,善鎭,Wisdom,Mind guided by clarity,Z
+소연,潤昊,Strength,Inner resilience and confidence,M
+서윤,美宰,Strength,Courage wrapped in gentleness,M
+서윤,恩成,Growth,Evolution through patience,I
+다혜,美潾,Light,Purity that brightens hearts,Y
+하윤,雅炫,Joy,Gratitude in simple moments,C
+유나,善昊,Kindness,Generosity in spirit,T
+지민,善永,Hope,Dream that lights the future,I
+서연,潤哲,Wisdom,Mind guided by clarity,P
+다인,心哲,Wisdom,Mind guided by clarity,R
+민지,京宰,Love,Heart filled with compassion,Z
+서윤,心潾,Strength,Inner resilience and confidence,F
+하린,慧周,Hope,Endless faith in tomorrow,I
+아린,星炫,Kindness,Empathy that heals others,G
+채원,星鎭,Faith,Belief that never falters,L
+서윤,美賢,Harmony,Unity of the great world,I
+다연,希成,Strength,Courage wrapped in gentleness,K
+유진,潤浩,Strength,Enduring calm power,H
+다인,美哲,Hope,Endless faith in tomorrow,R
+하린,眞浩,Hope,Promise of brighter days,N
+하은,希民,Hope,Promise of brighter days,F
+하린,智榮,Growth,Evolution through patience,A
+하은,慧榮,Kindness,A gentle and caring soul,O
+하린,珠泰,Wisdom,Understanding beyond words,M
+서연,恩泰,Harmony,Balance of light and reflection,S
+서윤,珠民,Beauty,Natural charm of serenity,Y
+수빈,心浩,Peace,Serenity of the gentle mind,W
+예진,心允,Light,Purity that brightens hearts,D
+지수,潾永,Light,Purity that brightens hearts,L
+하은,潤炫,Kindness,Generosity in spirit,T
+하윤,娜賢,Faith,Devotion that strengthens the soul,Y
+유진,瑛基,Wisdom,Understanding beyond words,N
+채원,眞弼,Beauty,Elegance born from kindness,V
+예진,瑛成,Hope,Endless faith in tomorrow,H
+소연,順允,Wisdom,Mind guided by clarity,I
+아린,希泰,Growth,Evolution through patience,S
+유나,映允,Peace,Serenity of the gentle mind,J
+소연,瑛勇,Hope,Promise of brighter days,E
+아린,潤炫,Kindness,Empathy that heals others,K
+하윤,恩俊,Beauty,Natural charm of serenity,E
+채원,潾炫,Growth,Journey of self-discovery,P
+지민,柔泰,Hope,Dream that lights the future,S
+아린,心勇,Joy,Happiness that inspires others,M
+유나,雅民,Faith,Devotion that strengthens the soul,J
+하은,星榮,Light,Beacon of truth and hope,R
+예진,瑛弼,Wisdom,Understanding beyond words,Q
